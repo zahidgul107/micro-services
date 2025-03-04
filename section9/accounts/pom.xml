@@ -15,7 +15,7 @@
 	<name>accounts</name>
 	<description>Microservice for Accounts</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 		<spring-cloud.version>2023.0.3</spring-cloud.version>
 	</properties>
 	<dependencies>
